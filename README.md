@@ -6,7 +6,19 @@
 
 I'm a creative leader, and I made it because I kept wanting to doodle over apps, websites and slides during remote calls with teammates and clients. Sometimes I need to circle something to give feedback; other times I just want to sketch a quick wireframe. Not every video call tool lets you draw, so Floaty sits on top of your screen and works with any of them. Share your screen, press a shortcut, and start sketching. Press it again and you're back to clicking around normally, with your drawings still in place until you clear them.
 
+## See it in action
+
+<img src="See%20Floaty%20Images/Floaty%20in%20action%20doodle%20notes.png" width="480" alt="Floaty used to circle a price and sketch an arrow on a website design in Figma">
+
+*Circling a price and sketching a quick note on a website design in Figma.*
+
+<img src="See%20Floaty%20Images/Floaty%20in%20action%20with%20text.png" width="720" alt="Floaty used to add text notes on a design in Canva">
+
+*Adding notes on top of a design in Canva.*
+
 ## Features
+
+<img src="See%20Floaty%20Images/Floaty%20bar.png" align="right" width="90" alt="The Floaty toolbar">
 
 - **Pencil, eraser and text** tools
 - **Any color** from the color picker, with your 3 most recent colors one click away (remembered between launches)
@@ -33,6 +45,8 @@ To add text, choose the text tool, click where you want it, type, and press Retu
 1. **[Download Floaty.zip](https://github.com/guirosa-gh/Floaty/releases/latest/download/Floaty.zip)** (or grab it from the [Releases page](https://github.com/guirosa-gh/Floaty/releases)).
 2. Open the zip, then drag **Floaty** into your **Applications** folder.
 3. Open Floaty from Applications. Its toolbar appears on your screen and a little scribble icon shows up in your menu bar.
+
+   <img src="See%20Floaty%20Images/Floaty%20in%20your%20app%20menu.png" width="560" alt="Floaty in the Mac Dock">
 
 Works on Apple Silicon and Intel Macs running macOS 12 (Monterey) or later.
 
