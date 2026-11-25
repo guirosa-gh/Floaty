@@ -1,3 +1,5 @@
+<img src="images/icon.png" width="96" alt="Floaty app icon">
+
 # Floaty
 
 **Floaty** is a tiny drawing toolbar for your Mac that floats on top of everything on your screen.
