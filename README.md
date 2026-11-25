@@ -26,7 +26,7 @@ I'm a creative leader, and I made it because I kept wanting to doodle over apps,
 - **Click-through mode**: drawings stay visible while you use your apps normally
 - **Works on every display**, even when you plug in or unplug monitors
 - **Undo** and **Clear all**
-- **Easy to install**: download it, drag it into your Applications folder, and start doodling. It sits quietly in your menu bar and needs no special permissions
+- **Easy to install**: download it, drag it into your Applications folder, and start doodling. It shows up in your Dock like any other app and needs no special permissions
 
 ## Shortcuts
 
@@ -44,7 +44,7 @@ To add text, choose the text tool, click where you want it, type, and press Retu
 
 1. **[Download Floaty.zip](https://github.com/guirosa-gh/Floaty/releases/latest/download/Floaty.zip)** (or grab it from the [Releases page](https://github.com/guirosa-gh/Floaty/releases)).
 2. Open the zip, then drag **Floaty** into your **Applications** folder.
-3. Open Floaty from Applications. Its toolbar appears on your screen and a little scribble icon shows up in your menu bar.
+3. Open Floaty from Applications. Its toolbar appears on your screen and its scribble icon shows up in your Dock.
 
    <img src="See%20Floaty%20Images/Floaty%20in%20your%20app%20menu.png" width="560" alt="Floaty in the Mac Dock">
 
