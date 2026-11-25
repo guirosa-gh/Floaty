@@ -10,11 +10,11 @@ I'm a creative leader, and I made it because I kept wanting to doodle over apps,
 
 <img src="See%20Floaty%20Images/Floaty%20in%20action%20doodle%20notes.png" width="480" alt="Floaty used to circle a price and sketch an arrow on a website design in Figma">
 
-*Circling a price and sketching a quick note on a website design in Figma.*
+*Circling an element and sketching a quick note during a website design review in Framer, Figma, Webflow, Squarespace, HubSpot and more, without touching the design files.*
 
 <img src="See%20Floaty%20Images/Floaty%20in%20action%20with%20text.png" width="720" alt="Floaty used to add text notes on a design in Canva">
 
-*Adding notes on top of a design in Canva.*
+*Adding notes on top of a piece of work to share quick feedback.*
 
 ## Features
 
@@ -27,6 +27,8 @@ I'm a creative leader, and I made it because I kept wanting to doodle over apps,
 - **Works on every display**, even when you plug in or unplug monitors
 - **Undo** and **Clear all**
 - **Easy to install**: download it, drag it into your Applications folder, and start doodling. It shows up in your Dock like any other app and needs no special permissions
+
+<br clear="right">
 
 ## Shortcuts
 
