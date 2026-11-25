@@ -12,7 +12,7 @@ I'm a creative leader, and I made it because I kept wanting to doodle over apps,
 - **Click-through mode**: drawings stay visible while you use your apps normally
 - **Works on every display**, even when you plug in or unplug monitors
 - **Undo** and **Clear all**
-- Lives in the menu bar (no Dock icon) and needs no special permissions
+- **Easy to install**: download it, drag it into your Applications folder, and start doodling. It sits quietly in your menu bar and needs no special permissions
 
 ## Shortcuts
 
@@ -28,22 +28,22 @@ To add text, choose the text tool, click where you want it, type, and press Retu
 
 ## Install
 
-Floaty is built from source. It takes about a minute.
+1. **[Download Floaty.zip](https://github.com/guirosa-gh/Floaty/releases/latest/download/Floaty.zip)** (or grab it from the [Releases page](https://github.com/guirosa-gh/Floaty/releases)).
+2. Open the zip, then drag **Floaty** into your **Applications** folder.
+3. Open Floaty from Applications. Its toolbar appears on your screen and a little scribble icon shows up in your menu bar.
 
-1. Install Apple's free developer tools (one time only). Open Terminal and run:
-   ```
-   xcode-select --install
-   ```
-2. Download this project: click the green **Code** button above, then **Download ZIP**, and unzip it.
-3. In Terminal, go to the unzipped folder and build it:
-   ```
-   cd ~/Downloads/Floaty-main
-   bash build.sh
-   open Floaty.app
-   ```
-4. Optional: drag **Floaty.app** into your Applications folder to keep it.
+Works on Apple Silicon and Intel Macs running macOS 12 (Monterey) or later.
 
-Requires macOS 12 (Monterey) or later.
+**The first time you open it**, macOS may say it can't verify the developer. That's because Floaty isn't registered with Apple's paid developer program. To open it anyway:
+
+- Go to **System Settings → Privacy & Security**, scroll down, and click **Open Anyway** next to the message about Floaty.
+- On older versions of macOS, you can instead right-click Floaty in Applications and choose **Open**.
+
+You only need to do this once.
+
+### Build it yourself (optional)
+
+If you prefer to build from the source code, install Apple's free developer tools with `xcode-select --install`, download this project with the green **Code** button, then in Terminal run `bash build.sh` inside the project folder.
 
 ## What's in here
 
