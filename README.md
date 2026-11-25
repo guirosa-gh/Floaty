@@ -1,6 +1,6 @@
 # Floaty
 
-**Floaty** is a tiny drawing toolbar that floats on top of everything on your screen.
+**Floaty** is a tiny drawing toolbar for your Mac that floats on top of everything on your screen.
 
 I'm a creative leader, and I made it because I kept wanting to doodle over apps, websites and slides during remote calls with teammates and clients. Sometimes I need to circle something to give feedback; other times I just want to sketch a quick wireframe. Not every video call tool lets you draw, so Floaty sits on top of your screen and works with any of them. Share your screen, press a shortcut, and start sketching. Press it again and you're back to clicking around normally, with your drawings still in place until you clear them.
 
