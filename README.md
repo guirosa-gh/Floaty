@@ -1,6 +1,8 @@
 # Floaty
 
-A tiny, cute drawing overlay for your Mac. Floaty floats on top of every window so you can scribble, highlight, and write notes right over your screen, then switch back to using your apps with one shortcut. Your drawings stay put until you clear them.
+**Floaty** is a tiny drawing overlay for your Mac that floats on top of everything on your screen.
+
+I'm a creative leader, and I made it because I kept wanting to doodle over apps, websites and slides during remote calls with teammates and clients. Sometimes I need to circle something to give feedback; other times I just want to sketch a quick wireframe. Not every video call tool lets you draw, so Floaty sits on top of your screen and works with any of them. Share your screen, press a shortcut, and start sketching. Press it again and you're back to clicking around normally, with your drawings still in place until you clear them.
 
 ## Features
 
